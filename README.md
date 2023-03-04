@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+My name is Andrew K.O. Wong. I’m a cell biologist by training, but these days I’m much more interested in data science.
 <!--
 **andrewKOwong/andrewKOwong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
